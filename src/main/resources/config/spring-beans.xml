@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns:context="http://www.springframework.org/schema/context" 
+	xsi:schemaLocation="http://www.springframework.org/schema/beans 
+	http://www.springframework.org/schema/beans/spring-beans-4.0.xsd
+	http://www.springframework.org/schema/context
+	http://www.springframework.org/schema/context/spring-context.xsd">
+	
+	<description>日志打点服务配置</description>
+	
+	<!-- 从consumer中获取的消息进行处理 -->
+<!-- 	<bean id="messageHandler" class="com.netease.beauty.bi.kafka.MessageHandler"> -->
+<!-- 		<property name="biLogClient" ref="biLogClient"/> -->
+<!-- 	</bean> -->
+	
+	<!-- spring-boot启动时就监听消息 -->
+	<bean id="kafkaService" class="com.netease.beauty.bi.kafka.KafkaService"
+		init-method="run" destroy-method="shutdown">
+<!-- 		<property name="messageHandler" ref="messageHandler"/> -->
+	</bean>
+	
+	<context:component-scan base-package="com.netease.beauty.bi" />
+</beans>

@@ -11,7 +11,7 @@ import org.springframework.jdbc.datasource.DriverManagerDataSource;
 
 /**
  * 处理DB的相关操作
- * @author hzliyong
+ * 
  *
  */
 public class JdbcHelper {

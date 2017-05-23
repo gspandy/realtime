@@ -15,7 +15,7 @@ import com.netease.beauty.realtime.helper.RedisHelper;
 
 /**
  * 具体业务bolt的基类，da日志和bi日志的bolt的基类
- * @author hzliyong
+ * 
  *
  */
 public abstract class BaseBolt extends BaseBasicBolt {

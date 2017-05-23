@@ -5,7 +5,7 @@ import java.io.Serializable;
 /**
  * da包含的所有字段
  * 
- * @author hzliyong
+ * 
  *
  */
 public class DaLog implements Serializable {

@@ -2,7 +2,7 @@ package com.netease.beauty.realtime.constant.enums;
 
 /**
  * 资源类型枚举
- * @author hzliyong
+ * 
  *
  */
 public enum ResourceTypeEnums {

@@ -2,7 +2,7 @@ package com.netease.beauty.realtime.constant;
 
 /**
  * 错误常量
- * @author hzliyong
+ * 
  *
  */
 public class ErrorConstants {

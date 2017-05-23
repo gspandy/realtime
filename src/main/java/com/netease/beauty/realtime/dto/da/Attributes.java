@@ -5,7 +5,7 @@ import java.util.List;
 
 /**
  * 客户端埋点日志中封装的复合对象
- * @author hzliyong
+ * 
  *
  */
 public class Attributes implements Serializable {

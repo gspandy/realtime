@@ -12,7 +12,7 @@ import com.netease.beauty.realtime.storm.common.BaseBolt;
 
 /**
  * 阅读相关的bolt
- * @author hzliyong
+ * 
  *
  */
 public class ReadBolt extends BaseBolt {

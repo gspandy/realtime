@@ -11,7 +11,7 @@ import com.netease.beauty.realtime.helper.RedisHelper;
 
 /**
  * 阅读相关的bolt
- * @author hzliyong
+ * 
  *
  */
 public class ReadBolt extends BaseBolt {

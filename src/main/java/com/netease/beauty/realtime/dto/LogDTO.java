@@ -4,7 +4,7 @@ import java.io.Serializable;
 
 /**
  * 原始日志dto
- * @author hzliyong
+ * 
  *
  */
 public class LogDTO implements Serializable {

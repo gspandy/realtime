@@ -16,7 +16,7 @@ import com.netease.beauty.realtime.constant.StormConstants;
 
 /**
  * 封装kafka消费者相关操作
- * @author hzliyong
+ * 
  *
  */
 public class KafkaHelper {

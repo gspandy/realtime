@@ -19,7 +19,7 @@ import com.netease.beauty.realtime.constant.StormConstants;
 
 /**
  * 解析日志的bolt
- * @author hzliyong
+ * 
  *
  */
 public class BiLogSplittingBolt extends BaseRichBolt {

@@ -2,7 +2,7 @@ package com.netease.beauty.realtime.constant;
 
 /**
  * storm常量
- * @author hzliyong
+ * 
  *
  */
 public class StormConstants {

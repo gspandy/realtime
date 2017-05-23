@@ -16,7 +16,7 @@ import com.netease.beauty.realtime.constant.StormConstants;
 
 /**
  * 构造拓扑
- * @author hzliyong
+ * 
  *
  */
 public class MainTopology {

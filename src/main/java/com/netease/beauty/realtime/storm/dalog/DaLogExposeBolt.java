@@ -30,7 +30,7 @@ import com.netease.beauty.realtime.util.JsonUtils;
 
 /**
  * 处理da的expose事件
- * @author hzliyong
+ * 
  *
  */
 public class DaLogExposeBolt extends BaseBolt {

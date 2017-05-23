@@ -3,7 +3,7 @@ package com.netease.beauty.realtime.constant;
 
 /**
  * da日志用到的常量
- * @author hzliyong
+ * 
  *
  */
 public class DaConstants {

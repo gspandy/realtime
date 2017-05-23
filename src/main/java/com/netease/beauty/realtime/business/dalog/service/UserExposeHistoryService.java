@@ -15,7 +15,7 @@ import com.netease.beauty.realtime.business.dalog.meta.UserExposeHistory;
 
 /**
  * 用户首页曝光历史
- * @author hzliyong
+ * 
  *
  */
 public class UserExposeHistoryService {

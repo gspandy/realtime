@@ -2,7 +2,6 @@ package com.netease.beauty.realtime.redis;
 
 /**
  * 主要用于批量写入数据到redis set
- * @author KK
  *
  */
 public class SetMeta {

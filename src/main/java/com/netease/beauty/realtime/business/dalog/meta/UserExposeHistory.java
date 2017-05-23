@@ -8,7 +8,6 @@ import com.netease.print.daojar.meta.annotation.AnnonOfField;
 /**
  * 用户实时曝光日志
  *
- * @version 2017-3-13 hzsujianan 基础代码编写
  */
 @AnnonOfClass(desc = "用户实时曝光日志", tableName = "Beauty_Algo_User_Expose_History", dbCreateTimeName = "db_create_time", dbUpdateTimeName = "db_update_time")
 public class UserExposeHistory implements Serializable {

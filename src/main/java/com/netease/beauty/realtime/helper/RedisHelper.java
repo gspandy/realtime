@@ -16,7 +16,7 @@ import com.netease.beauty.realtime.exception.MonitoredException;
 
 /**
  * 封装redis相关操作，storm计算的数据最终流向redis，
- * @author hzliyong
+ * 
  *
  */
 public class RedisHelper {

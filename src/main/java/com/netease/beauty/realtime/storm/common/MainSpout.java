@@ -20,7 +20,7 @@ import com.netease.beauty.realtime.helper.KafkaHelper;
 
 /**
  * 初始化kafka，并从kafka中取数据，
- * @author hzliyong
+ * 
  *
  */
 public class MainSpout extends BaseRichSpout {

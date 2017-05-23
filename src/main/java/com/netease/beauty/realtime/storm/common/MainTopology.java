@@ -22,7 +22,7 @@ import com.netease.beauty.realtime.storm.dalog.DaLogSplittingBolt;
 
 /**
  * da日志的主拓扑
- * @author hzliyong
+ * 
  *
  */
 public class MainTopology {

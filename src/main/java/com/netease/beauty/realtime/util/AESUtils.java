@@ -12,9 +12,6 @@ import javax.crypto.spec.SecretKeySpec;
 /**
  * 类AESUtils
  *
- * @author hzliuqing
- * @version 2013-7-16
- *
  */
 public class AESUtils {
 

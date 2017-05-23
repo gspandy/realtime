@@ -7,8 +7,6 @@ import com.netease.beauty.realtime.exception.RealTimeException;
 /**
  * 用于加密和解密返回给客户端的各类id，包括商品id，品牌id等等
  * 2016年8月12日上午12:13:18
- * @author shxujialei
- * Modified by yuanhong.li
  * 
  */
 public class IdEncryptUtils {

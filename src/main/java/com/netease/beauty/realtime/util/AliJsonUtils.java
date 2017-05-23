@@ -24,7 +24,7 @@ public class AliJsonUtils {
 			}
 	 * @param value
 	 * @return
-	 * hzliyong
+	 * 
 	 */
 	public static List<Long> getIdListFromResult(String value) {
 		List<Long> idList = new ArrayList<Long>();//返回的id列表
@@ -48,7 +48,7 @@ public class AliJsonUtils {
 	/**
 	 * 从json串中获取list
 	 * @return
-	 * hzliyong
+	 * 
 	 */
 	private static JSONArray getListFromJsonValue(String value) {
 		JSONObject json = JSONObject.parseObject(value);
@@ -69,7 +69,7 @@ public class AliJsonUtils {
 			}
 	 * @param returnValue
 	 * @return
-	 * hzliyong
+	 * 
 	 */
 	public static List<Long> getIdListFromResult(Object returnValue) {
 		List<Long> idList = new ArrayList<Long>();//返回的id列表
@@ -110,7 +110,7 @@ public class AliJsonUtils {
 		}
 	 * @param returnValue
 	 * @return
-	 * hzliyong
+	 * 
 	 */
 	public static List<Long> getIdListFromUser(Object returnValue) {
 		List<Long> idList = new ArrayList<Long>();//返回的id列表

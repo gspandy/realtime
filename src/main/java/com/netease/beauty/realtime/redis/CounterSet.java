@@ -19,7 +19,6 @@ import redis.clients.jedis.ShardedJedis;
 import com.netease.beauty.realtime.util.RealtimeCollectionUtils;
 
 /**
- * @author Zhike
  *	对redis zset的封装，方便使用
  */
 public class CounterSet  {

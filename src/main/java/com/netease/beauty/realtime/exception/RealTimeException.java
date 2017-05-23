@@ -4,7 +4,7 @@ import java.util.Map;
 
 /**
  * 
- * @author hzliyong
+ * 
  *
  */
 public class RealTimeException extends RuntimeException {
